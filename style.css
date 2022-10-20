@@ -1,0 +1,63 @@
+#header {
+    background-color: black;
+}
+
+#logo{
+    width: 100px;
+}
+
+#headerTitulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(238, 0, 255);
+    padding: 5PX 0px 0px 0px;
+}
+h1{
+    text-align: center;
+    color: orangered;
+    font-size: 40px !important;
+}
+h3{
+    color: orangered !important;
+    text-align: center;
+}
+h5{
+    font-size: 17px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#video{
+    padding: 20px;
+    width: 300px;
+}
+
+.divLink{
+    text-decoration: none !important;
+}
+
+#direita{
+    border-left: solid 1px gray;
+}
+
+p{
+   font-size:smaller;
+}
+.fotoDireita{
+    margin-top: 15px;
+}
+
+#video2{
+    width: 150px;
+}
+
+#logoFooter{
+    width: 80px;
+}
+
+#insta{
+    width: 20px;
+}
